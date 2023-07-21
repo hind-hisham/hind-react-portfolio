@@ -1,0 +1,84 @@
+#contact{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  #contact > .pro{
+    padding: 4em 3em;
+    width: 80%;
+    position: relative;
+  }
+  #contact form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: #fff;
+    width: 100%;
+  }
+  #contact form input , #contact form textarea{
+    width: 100%;
+    height: 30px;
+    border-radius: 10px;
+    background: linear-gradient(to right ,rgba(255, 255, 255, 0.3),rgba(149, 149, 149, 0.3));
+    border: none;
+    padding: 30px;
+  }
+  #contact form textarea{
+    height: inherit;
+  }
+  #contact .btn{
+    width: 150px;
+     padding: 15px;
+     text-align: center;
+     border-radius: 10px;
+     color: #fff;
+     background: transparent;
+     border: none;
+     font-size: 1.2em;
+     margin-top: 30px;
+     cursor: pointer;
+     position: relative;
+     overflow: hidden;
+  }
+  #contact .btn span{
+    transition: all  .5s linear;
+  }
+  #contact .btn:hover span.style:nth-child(1){
+    top: -30px;
+    left: -19px;
+    filter: blur(30px);
+  }
+  #contact .btn:hover span.style:nth-child(2){
+    top: 10px;
+    left: 10px;
+  }
+  #contact .btn:hover span.style:nth-child(3){
+    top: 0px;
+    left: 40px;
+  }
+ 
+  .contact-links{
+    position: relative;
+    top: -20px;
+    z-index: inherit;
+  }
+  .contact-links .pro{
+    padding: 25px;
+    margin: 10px;
+    box-shadow: 0 0 20px #00000053;
+  }
+  .contact-links a{
+    font-size: 1.2em;
+  }
+
+  @media (max-width:622px){
+    #contact > .pro{
+      padding: 2em;
+      width: 100%;
+      position: relative;
+    }
+    #contact form input{
+      height: 20px;
+    }
+  }
