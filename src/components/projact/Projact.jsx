@@ -41,7 +41,7 @@ const Projact = () => {
 					<p>Projact two</p>
 					<h2>Fikra Media</h2>
 					<p>
-					Designing a website for an advertising and media company consisting of a home page and an online store using HTML, CSS, and JS.</p>
+					Designing a website for a media company consisting of a home page and an online store using HTML, CSS, and JS.</p>
 					<div className="coll-actian">
 						<a href="https://hind-hisham.github.io/hind-hisham-fikra-media.github.io/">
 							<span class="style"></span>
