@@ -38,10 +38,10 @@ const Projact = () => {
 			<section >
 				<div className="pro-contianer left-pro">
 				<div className="pro">
-					<p>Projact One</p>
-					<h2>SSTC Center</h2>
+					<p>Projact two</p>
+					<h2>Fikra Media</h2>
 					<p>
-					Consectetur tenetur magni commodi animi iure ut harum voluptates, cupiditate ab quidem.</p>
+					Designing a website for an advertising and media company consisting of a home page and an online store using HTML, CSS, and JS.</p>
 					<div className="coll-actian">
 						<a href="https://hind-hisham.github.io/hind-hisham-fikra-media.github.io/">
 							<span class="style"></span>
