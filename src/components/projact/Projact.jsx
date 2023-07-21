@@ -14,7 +14,7 @@ const Projact = () => {
 						<p>Projact One</p>
 						<h2>SSTC Center</h2>
 						<p>
-						Consectetur tenetur magni commodi animi iure ut harum voluptates, cupiditate ab quidem.</p>
+						Designing a website for an information technology center and courses consisting of 10 basic pages and a dashboard using HTML, CSS, and JS.</p>
 						<div className="coll-actian">
 							<a href="https://www.alshargcenter.com/">
 								<span className="style"></span>
