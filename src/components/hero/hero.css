@@ -93,4 +93,9 @@
     right: 200px;
     bottom: 90px;
   }
+  /*media*********************************/
+@media (max-width:622px){
+  .glassy{
+    height: auto;}
+}
 
