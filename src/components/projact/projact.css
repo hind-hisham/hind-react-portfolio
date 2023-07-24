@@ -49,7 +49,7 @@
   }
   .case-st:hover{
     z-index: 7;
-    transform: scale(2.2);
+    scale: 2.2;
   }
   .case-st img{
     width: 100%;
@@ -67,20 +67,22 @@
 
   /*media*********************************/
   @media (max-width:900px){
-     .case-st{
+     .vid{
       display: none;
      }
      .pro{
       padding-top: 300px;
      }
-     .vid{
+     .case-st,.left-pro .case-st{
+      left: 50%;
+      transform: translateX(-50%);
       width: 450px;
       height: 350px;
       z-index: 7;
-      
+      right: 0;
      }
-     .vid:hover{
-      transform: none;
+     .case-st:hover{
+      scale: 1;
     }
   }
   @media (max-width:622px){
@@ -91,17 +93,8 @@
     .pro{
       padding-top: 250px;
      }
-     .vid{
+     .case-st,.left-pro .case-st{
       width: 90%;
-      height: 50%;
-      z-index: 7;
-      right: inherit;
+      height: 40%;
      }
-     .left-pro .vid{
-      width: 90%;
-      height: 50%;
-      z-index: 7;
-      left: inherit;
-    }
-     
   }
