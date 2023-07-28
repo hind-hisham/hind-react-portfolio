@@ -38,7 +38,7 @@ const Skills = () => {
 			<span className="style"></span>
 			   <span className="style"></span>
 			   <span className="style"></span>
-			   <p>🎓Bachelor of Science
+			   <p>🎓Bachelor of Computer Science
 			   from
 			   Algadarif University.</p>  
 			</div>
