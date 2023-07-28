@@ -26,7 +26,7 @@ const Skills = () => {
 			<span class="style"></span>
 			   <span class="style"></span>
 			   <span class="style"></span>
-		<h2>🎨Other realted skills:</h2>
+		<h2>🎨Other related skills:</h2>
 		<p>Figma</p>
 		<span>UI/UX design tool</span>
 		<p>Blender</p>
@@ -38,9 +38,9 @@ const Skills = () => {
 			<span className="style"></span>
 			   <span className="style"></span>
 			   <span className="style"></span>
-			   <p>🎓baclaruos degre of computer scince
+			   <p>🎓Bachelor of Science
 			   from
-			   Algadarif Unevarsite</p>  
+			   Algadarif University.</p>  
 			</div>
 			</section>
   )
