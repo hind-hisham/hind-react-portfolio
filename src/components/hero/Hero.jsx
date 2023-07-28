@@ -15,7 +15,7 @@ const Hero = () => {
 				<h1>I'm<span> hind hisham </span></h1>
 				<h3>frontend devoloper 😎</h3>
 				<p>I fell in love with codeing in 2020,I felt passion about it ,My real prize is the " WOW face " in the eyes of my clients when they see the project.</p>
-				<p>My journey began withe the Knowledge I got from University.I love to create extraordinary and unique things.</p>
+				<p>My journey began with the Knowledge I got from University.I love to create extraordinary and unique things.</p>
 				<div className="coll-actian">
 				<a href={CV} download><span className="style"></span>
 					<span class="style"></span>
