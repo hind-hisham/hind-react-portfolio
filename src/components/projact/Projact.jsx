@@ -20,7 +20,7 @@ const Projact = () => {
 								<span className="style"></span>
 								<span className="style"></span>
 								<span className="style"></span>
-								Visite Website</a>
+								Visit Website</a>
 							<a href="https://github.com/hind-hisham/sstc">Github link</a>
 							</div>
 							</div>
@@ -47,7 +47,7 @@ const Projact = () => {
 							<span class="style"></span>
 							<span className="style"></span>
 							<span className="style"></span>
-							Visite Website</a>
+							Visit Website</a>
 						<a href="https://github.com/hind-hisham/hind-hisham-fikra-media.github.io">Github link</a>
 						 </div>
 				</div>
