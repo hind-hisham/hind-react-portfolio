@@ -13,21 +13,19 @@ const Skills = () => {
 				  <p>CSS</p>
 				  <p>Javascript</p>
 				  <p>React</p>
-				     <p>Bootstrap</p>
-					  <p>Tailwindcss</p>	
-				</div>
-			   <div>
-				   <p>JQuriey</p>
-					  <p>ThreeJS</p>
-					  <p>npm</p>
-					  <p>Sass</p>
-					  <p>Pug.js</p>
-					  <p>Gulp.js</p>	
-				   <p>Git,Github</p>
-				   <p>Command line</p>
-				   
-					
-				          
+				  <p>Bootstrap</p>
+				  <p>Tailwindcss</p>	
+				  <p>JQuriey</p>
+			          <p>ThreeJS</p>
+			    </div>
+			    <div>
+				  <p>npm</p>
+				  <p>Sass</p>
+				  <p>Pug.js</p>
+				  <p>Gulp.js</p>	
+				  <p>Jest.js</p>
+				  <p>Git,Github</p>
+				  <p>Command line</p>	          
 		   </div>
 		   </div>
 		   <div class="pro">
