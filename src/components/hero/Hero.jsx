@@ -26,7 +26,7 @@ const Hero = () => {
 				<div className="links">
 					<a href="https://www.linkedin.com/in/hind-hisham-20ab47236/" target='_blank' rel='noreferrer'><FaLinkedin/></a>
 					<a href="https://github.com/hind-hisham" target='_blank' rel='noreferrer'><FaGithubSquare/></a>
-					<a href="#" target='_blank' rel='noreferrer'><FaYoutubeSquare/></a>
+					<a href="https://www.youtube.com/channel/UC4-m1j5_xZw2IcBgpARLdgg" target='_blank' rel='noreferrer'><FaYoutubeSquare/></a>
 				</div>
 				<div className="decor">
 					 <span class="style"></span>
