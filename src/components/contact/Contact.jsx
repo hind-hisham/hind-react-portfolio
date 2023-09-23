@@ -26,9 +26,9 @@ const Contact = () => {
 				    <span class="style"></span>
 					<span class="style"></span>
 					<span class="style"></span>
-					<input type="text" placeholder="Your Name" name='name' required />
-					<input type="text" placeholder="Your Email" name='email' required/>
-					<textarea name="message" cols="30" rows="3" placeholder="Your Message" required></textarea>
+					<input type="text" placeholder="Name" name='name' required />
+					<input type="text" placeholder="Email" name='email' required/>
+					<textarea name="message" cols="30" rows="3" placeholder="Message" required></textarea>
 					
 					<span class="style"></span>
 					<button type="submit" value="Send" class="btn">send
