@@ -48,7 +48,7 @@ const Contact = () => {
 			<div class="contact-links">
 				<a href="mailto:hind.hisham.alsadig@gmail.com" target='_blank' rel='noreferrer' class="pro" ><MdEmail/></a>
 				<a href="https://m.me/profile.php?id=100001076403930" target='_blank' rel='noreferrer' class="pro"><BsMessenger/></a>
-				<a href="https://api.whatsapp.com/send?phone=+249127897927" target='_blank' rel='noreferrer' class="pro"><BsWhatsapp/></a>
+				<a href="https://api.whatsapp.com/send?phone=+966507361307" target='_blank' rel='noreferrer' class="pro"><BsWhatsapp/></a>
 			</div>
 			</section>
   )
